@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Poole
 tagline:          The Jekyll Butler
-url:              http://stormasm.github.io
+url:              http://stormraft.github.io
 paginate:         1
 baseurl:          /resume/
 author:
@@ -20,7 +20,7 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/stormasm/resume
+  repo:           https://github.com/stormraft/resume
 
 # This is the list of pages to include in the header of the website.
 pages_list:
